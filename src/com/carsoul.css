@@ -1,0 +1,5 @@
+/* Custom CSS class to set height to half of the current height */
+.half-height {
+    height: 700px; /* Adjust this value as needed */
+  }
+  
